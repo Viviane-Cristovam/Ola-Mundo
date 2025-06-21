@@ -1,4 +1,5 @@
 # Olá, Mundo!
     Primeiro repositório 
     Linha teste adicionada
-    Nova linha teste adicionada
+Teste **negrito**
+Teste *itálico*
